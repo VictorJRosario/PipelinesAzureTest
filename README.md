@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jjeanluis59/trainings/_apis/build/status/VictorJRosario.PipelinesAzureTest?branchName=master)](https://dev.azure.com/jjeanluis59/trainings/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
